@@ -45,8 +45,6 @@ This project, developed during a Udemy bootcamp, is a deployed website that allo
 - Cookies & Sessions
 - Authorization
 
-**Developer Best Practices**
-
 **Deploying Apps**
 - Cloud Databases
 - Image Upload and Storage
