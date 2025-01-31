@@ -55,4 +55,4 @@ This project, developed during a Udemy bootcamp, is a deployed website that allo
 
 ## Demo
 
-Check out the live version of the game: [YelpCamp Demo](https://fathomless-plains-70808.herokuapp.com/)
+Explore the live version of the website: [YelpCamp Demo](https://fathomless-plains-70808.herokuapp.com/)
