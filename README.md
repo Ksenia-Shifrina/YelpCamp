@@ -61,6 +61,9 @@ This project, developed during a Udemy bootcamp, is a deployed website that allo
 - **Cloud Deployment**: Deployed the application to a cloud platform and managed a **cloud database**, ensuring the app was functional in a production environment.
 - **Full-Stack Development**: Learned key skills in **full-stack development**, including backend setup, database management, user authentication, and security, which laid the foundation for more complex projects.
 
+## Future Improvements
+- Improve the UI for better responsiveness on smaller screens.
+
 ## Demo
 
 Explore the live version of the website: [YelpCamp Demo](https://fathomless-plains-70808.herokuapp.com/)
