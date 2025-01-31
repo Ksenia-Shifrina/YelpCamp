@@ -2,8 +2,6 @@
 
 This project, developed during a Udemy bootcamp, is a deployed website that allows users to tag and review campsites on a map. Users can view descriptions of campsites and, upon logging in, can comment, rate, and manage their own campsite entries. If a user owns a campsite, they have the ability to edit or delete it.
 
-Link: https://fathomless-plains-70808.herokuapp.com/
-
 ## Key Features
 
 - Interactive map for tagging campsites
@@ -54,3 +52,7 @@ Link: https://fathomless-plains-70808.herokuapp.com/
 - Cloud Databases
 - Image Upload and Storage
 - Maps and Geocoding
+
+## Demo
+
+Check out the live version of the game: [YelpCamp Demo](https://fathomless-plains-70808.herokuapp.com/)
